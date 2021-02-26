@@ -1,4 +1,4 @@
-USE shops;
+
 
 INSERT INTO status (status)
 VALUES ('Delivered');
