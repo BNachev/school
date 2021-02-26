@@ -1,1 +1,1 @@
-# school
+# school project shops database
